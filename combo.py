@@ -3,7 +3,7 @@ import numpy as np
 import json
 import streamlit as st
 
-menu = pd.read_csv('D:\hivel\AI_Menu_Items1.csv')
+menu = pd.read_csv('AI_Menu_Items1.csv')
 
 menu.rename(columns={
     'item_name': 'Item',
