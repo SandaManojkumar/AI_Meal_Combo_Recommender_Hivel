@@ -1,10 +1,5 @@
 # AI Meal Combo Recommender
 
-[![Streamlit App](https://static.streamlit.io/badges/py‑version.svg)](https://ai-meal-combo-recommender.streamlit.app/)
-
-Discover an AI-powered recommender that suggests complementary meal combos based on your preferences. Powered by Hive and Streamlit.
-
----
 
 ## 🚀 Live Demo
 
