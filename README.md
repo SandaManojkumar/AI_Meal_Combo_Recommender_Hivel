@@ -1,5 +1,5 @@
 # AI Meal Combo Recommender
-
+---
 
 ## 🚀 Live Demo
 
